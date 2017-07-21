@@ -8,5 +8,5 @@ GRAPH
   apt (4.0.2)
     compat_resource (>= 12.10)
   compat_resource (12.14.3)
-  libpostal (0.1.0)
+  libpostal (1.2.0)
     apt (>= 0.0.0)
